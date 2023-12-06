@@ -1,4 +1,4 @@
-## Hi, I'm Li-Qingfeng
+## 👋 Hi, I'm Li-Qingfeng.
 
 - 🤔 I don't know what to put on my README
 - 💬 Here are some random sentences to fill the space
